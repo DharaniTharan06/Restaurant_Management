@@ -1,0 +1,5 @@
+# Ignore the huge folder of downloaded dependencies
+node_modules
+
+# Ignore the file containing your secret database credentials
+.env
